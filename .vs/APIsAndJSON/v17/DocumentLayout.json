@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\api\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\api\\weatherapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\mappers\\weathermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\mappers\\weathermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\dto\\weather_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\dto\\weather_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\api\\responses\\weatherapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\api\\responses\\weatherapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\api\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\api\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\api\\kanyeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\api\\kanyeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\api\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\api\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\api\\ronapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\api\\ronapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\ronvskanyeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\ronvskanyeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|c:\\users\\jalen\\onedrive\\desktop\\truecodersacademy_bootcamp\\repos\\apis-and-json-exercise\\apisandjson\\apisandjson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{668DA0F4-49A7-412D-8E1F-9BEE15CD360D}|APIsAndJSON\\APIsAndJSON.csproj|solutionrelative:apisandjson\\apisandjson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\APIResponse\\RonSwansonQuote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIsAndJSON\\API\\APIResponse\\RonSwansonQuote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\Abstractions\\IApiRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIsAndJSON\\API\\Abstractions\\IApiRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\APIResponse\\RonSwansonApiResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIsAndJSON\\API\\APIResponse\\RonSwansonApiResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherMapper.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\Mappers\\WeatherMapper.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\Mappers\\WeatherMapper.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\Mappers\\WeatherMapper.cs",
+              "RelativeToolTip": "APIsAndJSON\\Mappers\\WeatherMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:28:09.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather_DTO.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\DTO\\Weather_DTO.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\DTO\\Weather_DTO.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\DTO\\Weather_DTO.cs",
+              "RelativeToolTip": "APIsAndJSON\\DTO\\Weather_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:25:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\Responses\\WeatherApiResponse.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\API\\Responses\\WeatherApiResponse.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\Responses\\WeatherApiResponse.cs",
+              "RelativeToolTip": "APIsAndJSON\\API\\Responses\\WeatherApiResponse.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA2wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:55:46.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\WeatherAPIService.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\API\\WeatherAPIService.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\WeatherAPIService.cs",
+              "RelativeToolTip": "APIsAndJSON\\API\\WeatherAPIService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAC/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:47:31.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RonApiService.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\RonApiService.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\API\\RonApiService.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\RonApiService.cs",
+              "RelativeToolTip": "APIsAndJSON\\API\\RonApiService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:50:15.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIService.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\APIService.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\API\\APIService.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\APIService.cs",
+              "RelativeToolTip": "APIsAndJSON\\API\\APIService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:46:51.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\Program.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\Program.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\Program.cs",
+              "RelativeToolTip": "APIsAndJSON\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:49:22.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KanyeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\KanyeApiService.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\API\\KanyeApiService.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\KanyeApiService.cs",
+              "RelativeToolTip": "APIsAndJSON\\API\\KanyeApiService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:19:54.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RonVSKanyeAPI.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\RonVSKanyeAPI.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\RonVSKanyeAPI.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\RonVSKanyeAPI.cs",
+              "RelativeToolTip": "APIsAndJSON\\RonVSKanyeAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:49:22.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\IAPIService.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\API\\IAPIService.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\IAPIService.cs",
+              "RelativeToolTip": "APIsAndJSON\\API\\IAPIService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:46:16.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APIsAndJSON.csproj",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+              "RelativeDocumentMoniker": "APIsAndJSON\\APIsAndJSON.csproj",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+              "RelativeToolTip": "APIsAndJSON\\APIsAndJSON.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T16:49:23.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IApiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\Abstractions\\IApiRequest.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\API\\Abstractions\\IApiRequest.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\Abstractions\\IApiRequest.cs",
+              "RelativeToolTip": "APIsAndJSON\\API\\Abstractions\\IApiRequest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:50:27.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RonSwansonApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\APIResponse\\RonSwansonApiResponse.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\API\\APIResponse\\RonSwansonApiResponse.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\APIResponse\\RonSwansonApiResponse.cs",
+              "RelativeToolTip": "APIsAndJSON\\API\\APIResponse\\RonSwansonApiResponse.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:49:23.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RonSwansonQuote.cs",
+              "DocumentMoniker": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\APIResponse\\RonSwansonQuote.cs",
+              "RelativeDocumentMoniker": "APIsAndJSON\\API\\APIResponse\\RonSwansonQuote.cs",
+              "ToolTip": "C:\\Users\\jalen\\OneDrive\\Desktop\\TrueCodersAcademy_BootCamp\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\API\\APIResponse\\RonSwansonQuote.cs",
+              "RelativeToolTip": "APIsAndJSON\\API\\APIResponse\\RonSwansonQuote.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:17:55.072Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1578,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
